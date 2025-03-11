@@ -10,3 +10,6 @@ myfunc()
 
 print("python is " + x)
 
+def myfunc():
+ y="superb"
+ 
